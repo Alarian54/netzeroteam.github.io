@@ -9,6 +9,13 @@ HH				Global
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 /*  */
 
+@media (max-width:1200px){
+    .disappearAt1200{
+        display: none !important;
+    }
+}
+
+
 .personal-description {
    color: gray;
    font-size: 12px;
@@ -196,7 +203,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .header{
 	height: 100vh;
 	background: linear-gradient(50deg, rgb(81, 255, 182),rgb(54, 135, 82));
-    padding: 45px 0px;
+    padding: 30px 0px;
 }
 #logo {
 	font-size: 80px;
