@@ -220,9 +220,6 @@ hr{
 .img-mockup{
 	width:800px !important;
 }
-ul.social-icons{
-  padding: 0;
-}
 ul.social-icons li {
     display:inline-block;
     margin:5px;
@@ -236,10 +233,6 @@ ul.social-icons li a i {
     height: 50px;
     padding: 9px;
     display:block;
-}
-.social-icons ul li a i{
-	color: #fff;
-	border-color: white;
 }
 .footer-logo h1 {
     color: #fff;
