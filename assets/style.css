@@ -229,20 +229,14 @@ ul.social-icons li {
     height: 50px;
     padding: 9px;
     border-radius:100%;
-}
-ul.social-icons i {
     color:white;
     display:block;
 }
 .footer-logo h1 {
     color: white;
 }
-.social-icons ul li a i{
-	color: white;
-	border-color: white;
-}
 .facebook a:hover i {
-    color: white;
+    color:#fff;
     background-color:#3B5998;
 }
 .twitter a:hover i {
