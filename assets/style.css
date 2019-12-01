@@ -229,14 +229,14 @@ ul.social-icons li {
     height: 50px;
     padding: 9px;
     border-radius:100%;
-    color:black;
+    color:#fff;
     display:block;
 }
 .footer-logo h1 {
-    color: black;
+    color: #fff;
 }
 .facebook a:hover i {
-    color:black;
+    color:#fff;
     background-color:#3B5998;
 }
 .twitter a:hover i {
