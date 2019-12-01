@@ -221,6 +221,46 @@ hr{
 	width:800px !important;
 }
 
+ul.social-icons li {
+    display:inline-block;
+    margin:5px;
+    font-size:35px;
+}
+ul.social-icons i {
+    color:white;
+    border-radius:100%;
+    display:block;
+    width: 50px;
+    height: 50px;
+    padding: 9px;
+}
+ul.social-icons li a {
+    display:block;
+}
+.footer-logo h1 {
+    color: white;
+}
+.social-icons ul li a i{
+	color: white;
+	border-color: white;
+}
+.facebook a:hover i {
+    color:#fff;
+    background-color:#3B5998;
+}
+.twitter a:hover i {
+    color:#fff;
+    background-color:#2A80BA;
+}
+.linkedin a:hover i {
+    color:#fff;
+    background-color:#007bb6;
+}
+.github a:hover i {
+    color:#fff;
+    background-color: #444;
+}
+
 
 /* NEW MERGE WITH OLD WEBSITE  */
 
